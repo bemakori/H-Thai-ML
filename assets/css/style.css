@@ -11,9 +11,10 @@ h2 {
     color: darkred;
 }
 
-h3, 
+h3,
 p,
 li {
+    list-style-type:none;
     color: green;
 }
 
